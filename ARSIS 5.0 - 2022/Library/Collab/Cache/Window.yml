@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ffe70aba2e7074048aca5de573b64a59, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  SimpleSelectedItems:
+    m_Keys:
+    - .collabignore
+    - Assets/Export.meta
+    - Assets/Export/CarryModeOutline 1.mat
+    - Assets/Export/CarryModeOutline 1.mat.meta
+    - Assets/Export/CarryModeOutline 2.mat
+    - Assets/Export/CarryModeOutline 2.mat.meta
+    - Assets/Export/ClippingPlane.mat
+    - Assets/Export/ClippingPlane.mat.meta
+    - Assets/Export/HandMenu_Medium.prefab
+    - Assets/Export/HandMenu_Medium.prefab.meta
+    - Assets/Export/I_BaseMenu 1.prefab
+    - Assets/Export/I_BaseMenu 1.prefab.meta
+    - Assets/Export/I_BioMenu 1.prefab
+    - Assets/Export/I_BioMenu 1.prefab.meta
+    - Assets/Export/I_MapMenu1 1.prefab
+    - Assets/Export/I_MapMenu1 1.prefab.meta
+    - Assets/Export/I_MapMenu2 1.prefab
+    - Assets/Export/I_MapMenu2 1.prefab.meta
+    - Assets/Export/I_ProcedureDetail 1.prefab
+    - Assets/Export/I_ProcedureDetail 1.prefab.meta
+    - Assets/Export/ProceduresMenu.prefab
+    - Assets/Export/ProceduresMenu.prefab.meta
+    - Assets/Icons/SuitsMascot.glb
+    - Assets/Icons/SuitsMascot.glb.meta
+    - Assets/MixedRealityToolkit.Generated/ProjectPreferences.asset
+    - Assets/MixedRealityToolkit.Generated/ProjectPreferences.asset.meta
+    - Assets/Prefabs/Specific Menus/I_ProcedureDetail.prefab
+    - Assets/Prefabs/Specific Menus/I_ProcedureDetail.prefab.meta
+    - Assets/Scenes/ARSISMain 1.unity
+    - Assets/Scenes/ARSISMain 1.unity.meta
+    - Assets/Scenes/ARSISMain.unity
+    - Assets/Scenes/ARSISMain.unity.meta
+    - Assets/XR/Settings/OpenXR Package Settings.asset
+    - Assets/XR/Settings/OpenXR Package Settings.asset.meta
+    - Packages/MixedReality/com.microsoft.mixedreality.openxr-1.2.1.tgz
+    - Packages/MixedReality/com.microsoft.mixedreality.toolkit.examples-2.7.3.tgz
+    - Packages/MixedReality/com.microsoft.mixedreality.toolkit.extensions-2.7.3.tgz
+    - Packages/MixedReality/com.microsoft.mixedreality.toolkit.foundation-2.7.3.tgz
+    - Packages/MixedReality/com.microsoft.mixedreality.toolkit.standardassets-2.7.3.tgz
+    - Packages/MixedReality/com.microsoft.mixedreality.toolkit.testutilities-2.7.3.tgz
+    - Packages/MixedReality/com.microsoft.mixedreality.toolkit.tools-2.7.3.tgz
+    - Packages/manifest.json
+    - Packages/manifest.json.backup
+    - Packages/packages-lock.json
+    - ProjectSettings/ProjectSettings.asset
+    - ProjectSettings/ProjectVersion.txt
+    - 
+    m_Values: 0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+  RevisionSummary: 
+  ChangesSearchValue: 
+  SelectedHistoryRevision: 
+  HistoryPageNumber: 0
+  TabIndex: 0
